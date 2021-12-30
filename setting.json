@@ -2,7 +2,7 @@
   "name-web":"Movie Online",
   "author":"movie",
   "remove-comment-html":true,
-  "target":"https://104.161.33.116",
+  "target":"https://158.69.0.212",
   "name-folder-sitemap":"sitemap",
   "element-remove":[
     "script",
@@ -20,20 +20,20 @@
   ],
   "costom-element-remove":[
     {
-      "target":"https://104.161.33.116",
+      "target":"https://158.69.0.212",
       "element-remove-selector":[
         ".js-dismissable-hero",
         ".lazy-loading"
       ],
       "replace-string":[
         {
-          "target":"https://104.161.33.116",
+          "target":"https://158.69.0.212",
           "replace":"${nameWeb}"
         }
       ]
     },
     {
-      "target":"https://104.161.33.116",
+      "target":"https://158.69.0.212",
       "element-remove-selector":[
         ".baca",
         ".op-interactive",
@@ -49,7 +49,7 @@
       "replace-string":[]
     },
     {
-      "target":"https://104.161.33.116",
+      "target":"https://158.69.0.212",
       "element-remove-selector":[
         ".box-header",
         ".box-language",
@@ -59,7 +59,7 @@
       "replace-string":[]
     },
     {
-      "target":"https://104.161.33.116",
+      "target":"https://158.69.0.212",
       "element-remove-selector":[
         "header",
         ".trail-wrapper",
